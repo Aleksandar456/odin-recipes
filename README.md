@@ -1,1 +1,2 @@
 # odin-recipes
+This is my first project that I have successfully completed since I started learning about web development at TOP.Working on this project, I learned the basics of Html and Git, which will help me to successfully continue learning on the Odin project.
