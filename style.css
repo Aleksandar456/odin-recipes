@@ -1,0 +1,18 @@
+body {
+    background-color: 	#FF8C00;
+    color: #fff;
+    text-align: center;
+    font-family: purisa;
+}
+
+a{
+    text-decoration: none;
+}
+
+h2 {
+    text-decoration: underline;
+}
+
+li {
+    list-style: none;
+}
