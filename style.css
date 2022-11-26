@@ -2,7 +2,12 @@ body {
     background-color: 	#FF8C00;
     color: #fff;
     text-align: center;
-    font-family: purisa;
+    font-family: purisa, serif;
+}
+
+img {
+    width: auto;
+    height: 300px;
 }
 
 a{
